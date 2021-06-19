@@ -1,0 +1,1 @@
+mvn clean install -pl :app-two-web,:app-fe-two -am
